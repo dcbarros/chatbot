@@ -1,0 +1,2 @@
+spring.application.name=chatbot
+openai.api.key=sua_chave_de_API
